@@ -37,7 +37,7 @@ Este taller hace parte del proceso de formación en desarrollo web, enfocado en:
 
 ## 👨‍💻 Autor
 
-**Sebastián Soto**
+**Sebastián Soto**<br>
 *Estudiante de Ingeniería de Sistemas*
 
 ---
